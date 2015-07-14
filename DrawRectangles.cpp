@@ -1,3 +1,5 @@
+// 사각형 그리기
+// https://algospot.com/judge/problem/read/DRAWRECT
 #include <iostream>
 #include <vector>
 
