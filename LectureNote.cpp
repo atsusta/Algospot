@@ -1,3 +1,5 @@
+// Lecture Note
+// https://algospot.com/judge/problem/read/LECTURE
 #include <iostream>
 #include <string>
 #include <vector>
@@ -10,7 +12,7 @@ void merge(vector<string>& firstPart, vector<string>& secondPart,
 
 int main() {
 	int nTestCases = 0;
-	vector<string> words;
+	vector<string> words;y7ghv 7787ysgy67g
 	vector<string> tokens;
 	size_t position = 0;
 

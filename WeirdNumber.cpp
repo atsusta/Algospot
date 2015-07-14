@@ -1,3 +1,5 @@
+// Weird Numbers 
+// https://algospot.com/judge/problem/read/WEIRD
 #include <iostream>
 
 using namespace std;

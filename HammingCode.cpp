@@ -1,3 +1,5 @@
+// Hamming Code 
+// https://algospot.com/judge/problem/read/HAMMINGCODE
 #include <iostream>
 
 using namespace std;

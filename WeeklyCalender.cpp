@@ -1,3 +1,5 @@
+// Weekly Calendar
+// https://algospot.com/judge/problem/read/WEEKLYCALENDAR
 #include <stdio.h>
 #include <string.h>
 

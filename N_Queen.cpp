@@ -1,3 +1,5 @@
+// N-Queen
+// https://algospot.com/judge/problem/read/NQUEEN
 #include <stdio.h>
 
 int main()

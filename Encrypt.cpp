@@ -1,3 +1,5 @@
+// 문자열 암호화
+// https://algospot.com/judge/problem/read/ENCRYPT
 #include <iostream>
 //#include <stdio.h>
 //#include <string.h>

@@ -1,3 +1,5 @@
+// Merciful Algospot 
+// https://algospot.com/judge/problem/read/MERCY
 #include <iostream>
 
 using namespace std;

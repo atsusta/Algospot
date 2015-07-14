@@ -1,3 +1,5 @@
+// 에어컨을 끈다고 전력난이 해결될까?
+// https://algospot.com/judge/problem/read/HOTSUMMER
 #include <iostream>
 
 using namespace std;

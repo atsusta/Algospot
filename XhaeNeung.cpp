@@ -1,3 +1,5 @@
+// 째능 교육 
+// https://algospot.com/judge/problem/read/XHAENEUNG
 #include <stdio.h>
 #include <string.h>
 
